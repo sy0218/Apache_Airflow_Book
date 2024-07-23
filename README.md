@@ -26,3 +26,10 @@ ex) > week1/jaeeun/1~2주차_정리.py
 4. 발표 시간 전까지 커밋한 내용을 푸쉬후 main 브랜치에 PR 합니다.
 5. 방장은 발표가 끝난 후 각 MR들을 머지합니다.
 
+
+# ⭐️ 스터디 멤버 
+>  `2024.08 ~ 2024.09` 
+
+| <a href="https://github.com/jojaegu2"><img src="https://avatars.githubusercontent.com/u/65579171?v=4" width="150px"/></a> | 
+| --- | --- | --- | --- | --- | --- |
+| 조재은 |
