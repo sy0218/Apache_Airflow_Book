@@ -5,14 +5,15 @@
 (https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=290091682)
 - 기간 : 2024.08 ~ 2024.09 (2개월)
 - 인원 : 7명
-- 일정 : 주 1회, 
+- 일정 : 주 1회, 화요일 22:00
 - 장소 : 디스코드
 - 숙제 : 1장 ~ 12장 / 각자 정리한 내용을 git 으로 공유 (블로그, pdf, md 등)
+- 진행방식 : 주차별 범위를 정해서 발표자가 발표하고 질의 응답하는 형식
 - 스터디 관련 주의사항 : 중간에 탈주 방지를 위해 보증금 2만원을 받을 예정입니다.
     - 말 없이 불참 -1만원 / 지각 -5천원
     - 숙제 안 함 -5천원
     - 1회 면제권 있음 (발표자는 제외)
-    - 스터디가 종료되면 남은 보증금 돌려드립니다.
+    - 스터디가 종료되면 남은 보증금 반환
  
 ## 📚 주차 정리
 
@@ -44,8 +45,8 @@ ex) > jaaeun
 ```
 ex) > week1/jaeeun/1~2주차_정리.py
 ```
-4. 발표 시간 전까지 커밋한 내용을 푸쉬후 main 브랜치에 PR 합니다.
-5. 방장은 발표가 끝난 후 각 MR들을 머지합니다.
+4. 발표 시간 전까지 커밋한 내용을 푸쉬후 PR 합니다.
+5. 방장은 발표가 끝난 후 머지합니다.
 
 ## ⭐️ 스터디 멤버 
 | <a href="https://github.com/jojaegu2"><img src="https://avatars.githubusercontent.com/u/65579171?v=4" width="150px"/> |<a href="https://github.com/"><img src="https://avatars.githubusercontent.com/u/" width="150px"/></a> |
