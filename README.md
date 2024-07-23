@@ -49,9 +49,11 @@ ex) > week1/jaeeun/1~2주차_정리.py
 5. 방장은 발표가 끝난 후 머지합니다.
 
 ## ⭐️ 스터디 멤버 
-| <a href="https://github.com/jojaegu2"><img src="https://avatars.githubusercontent.com/u/65579171?v=4" width="150px"/> |<a href="https://github.com/dane805"><img src="https://avatars.githubusercontent.com/u/39235119?v=4" width="150px"/></a> | <a href="https://github.com/limseunghyun95"><img src="https://avatars.githubusercontent.com/u/58515197?v=4" width="150px"/></a> | <a href="https://github.com/Mollis-Kim"><img src="https://avatars.githubusercontent.com/u/57851658?v=4" width="150px"/></a> 
+| <a href="https://github.com/jojaegu2"><img src="https://avatars.githubusercontent.com/u/65579171?v=4" width="150px"/></a> 
+| <a href="https://github.com/dane805"><img src="https://avatars.githubusercontent.com/u/39235119?v=4" width="150px"/></a> 
+| <a href="https://github.com/limseunghyun95"><img src="https://avatars.githubusercontent.com/u/58515197?v=4" width="150px"/></a> 
+| <a href="https://github.com/Mollis-Kim"><img src="https://avatars.githubusercontent.com/u/57851658?v=4" width="150px"/></a> 
 | <a href="https://github.com/rhfem32"><img src="https://avatars.githubusercontent.com/u/176383669?v=4" width="150px"/></a> 
 | <a href="https://github.com/sejeong-park"><img src="https://avatars.githubusercontent.com/u/62873925?v=4" width="150px"/></a> 
 | <a href="https://github.com/sy0218"><img src="https://avatars.githubusercontent.com/u/114718389?v=4" width="150px"/></a> 
-| <a href="https://github.com/yeseonson"><img src="https://avatars.githubusercontent.com/u/72899454?v=4" width="150px"/></a> | 
-</a>
+| <a href="https://github.com/yeseonson"><img src="https://avatars.githubusercontent.com/u/72899454?v=4" width="150px"/></a>
