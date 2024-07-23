@@ -48,7 +48,7 @@ ex) > week1/jaeeun/1~2주차_정리.py
 4. 발표 시간 전까지 커밋한 내용을 푸쉬후 PR 합니다.
 5. 방장은 발표가 끝난 후 머지합니다.
 
-# ✅ PR 관련 참고 블로그
+### ✅ PR 관련 참고 블로그
 https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/
 
 
