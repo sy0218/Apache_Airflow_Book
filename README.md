@@ -1,12 +1,11 @@
-# 📚 Apache_Airflow_Book 📚
-![image](https://github.com/user-attachments/assets/2afde144-0f04-4993-affb-831449938a79)
+# 📚 Apache_Airflow_Book_Study📚
 
 ## 🔴 스터디 개요
 - 주제 : Apache Airflow 기반의 데이터 파이프라인 읽고 공유하기
 (https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=290091682)
 - 기간 : 2024.08 ~ 2024.09 (2개월)
 - 인원 : 7명
-- 일정 : 주 1회
+- 일정 : 주 1회, 
 - 장소 : 디스코드
 - 예상 결과물 : 1장 ~ 12장 정리 내용 git 으로 공유
 - 스터디 관련 주의사항 : 중간에 탈주 방지를 위해 보증금 2만원을 받을 예정입니다.
