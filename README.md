@@ -1,6 +1,5 @@
 # 📚 Apache_Airflow_Book_Study📚
-<a href="">
-<img src="https://image.aladin.co.kr/product/29009/16/cover500/k002836425_1.jpg" width="150px"/></a> 
+<img src="https://image.aladin.co.kr/product/29009/16/cover500/k002836425_1.jpg" width="300px"/></a> 
 
 
 ## 🔴 스터디 개요
