@@ -1,4 +1,6 @@
 # 📚 Apache_Airflow_Book_Study📚
+<a href=""><img src="[https://avatars.githubusercontent.com/u/65579171?v=4](https://image.aladin.co.kr/product/29009/16/cover500/k002836425_1.jpg)" width="150px"/></a> 
+
 
 ## 🔴 스터디 개요
 - 주제 : Apache Airflow 기반의 데이터 파이프라인 읽고 공유하기
