@@ -51,11 +51,11 @@ https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/
 1. clone 하기
    url 복사
    <img width="605" alt="스크린샷 2024-08-05 오후 10 37 45" src="https://github.com/user-attachments/assets/afa92b78-9214-4ad4-a31c-10f1729c0ac7">
-   > git clone url
-2. 내 이름 브랜치 생성
+   > git clone https://github.com/본인git닉네임/Apache_Airflow_Book.git
+2. 내 이름 브랜치 생성, 
 3. 내 브랜치 체크아웃
-4. 숙제를 올릴 파일 생성, 파일 디렉토리 규칙 준수
-5. 주석작성하고 숙제 파일만 commint and push 하기
+4. 숙제를 올릴 파일 생성, 파일 디렉토리 규칙 준수 (week1/본인이름/숙제.py)
+5. 주석 작성하고 숙제 파일만 commint and push 하기
 6. git 페이지 들어와서 pull request 클릭
    ![image](https://github.com/user-attachments/assets/f717429f-c4d6-41c0-88a5-609c1c90b373)
 7. Create pull request 클릭
