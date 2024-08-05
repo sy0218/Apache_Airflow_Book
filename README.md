@@ -48,25 +48,6 @@ ex) > week1/jaeeun/1~2주차_정리.py
 ### ✅ PR 관련 참고 블로그
 https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/
 
-1. url 복사하기
- <img width="200" alt="스크린샷 2024-08-05 오후 10 37 45" src="https://github.com/user-attachments/assets/afa92b78-9214-4ad4-a31c-10f1729c0ac7">
-2. git init 하기
-   > git init
-4. clone 하기
-   > git clone https://github.com/본인git닉네임/Apache_Airflow_Book.git
-5. 원격 확인
-   > git remote -v
-   <img width="200" alt="스크린샷 2024-08-05 오후 10 50 42" src="https://github.com/user-attachments/assets/9e91ed8b-65f4-4fe0-a911-17a94a03da69">
-6. 내 이름 브랜치 생성 
-7. 내 브랜치 체크아웃
-8. 숙제를 올릴 파일 생성, 파일 디렉토리 규칙 준수 (예.week1/본인이름/숙제.py)
-9. 주석 작성하고 숙제 파일만 commint and push 하기
-10. git 페이지 들어와서 pull request 클릭
-   ![image](https://github.com/user-attachments/assets/f717429f-c4d6-41c0-88a5-609c1c90b373)
-11. Create pull request 클릭
-   ![image](https://github.com/user-attachments/assets/5119c139-4f4d-4e18-a256-1e9e64e897ec)
-12. 방장이 머지
-
 ## ⭐️ 스터디 멤버 
 | <a href="https://github.com/jojaegu2"><img src="https://avatars.githubusercontent.com/u/65579171?v=4" width="150px"/></a> 
 | <a href="https://github.com/dane805"><img src="https://avatars.githubusercontent.com/u/39235119?v=4" width="150px"/></a> 
